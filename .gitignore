@@ -1,0 +1,12 @@
+/node_modules
+/.next
+/out
+.env*
+*.tsbuildinfo
+npm-debug.log*
+.DS_Store
+.openai/
+.wrangler/
+dist/
+work/
+
